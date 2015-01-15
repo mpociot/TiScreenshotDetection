@@ -2,7 +2,7 @@
 
 [![gittio](http://img.shields.io/badge/gittio-1.0.0-00B4CC.svg)](http://gitt.io/component/de.marcelpociot.screenshot)
 [![License](http://img.shields.io/badge/license-MIT-orange.svg)](http://mit-license.org)
-[![issues](http://img.shields.io/github/issues/mpociot/TiCollectionView.svg)](https://github.com/mpociot/TiScreenshotDetection/issues)
+[![issues](http://img.shields.io/github/issues/mpociot/TiScreenshotDetection.svg)](https://github.com/mpociot/TiScreenshotDetection/issues)
 
 ## Overview
 
