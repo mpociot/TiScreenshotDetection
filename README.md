@@ -21,4 +21,4 @@ screenshotdetection.addEventListener("screenshotTaken",function(e)
 {
 	alert( "Screenshot taken!" );
 });
-``
+```
