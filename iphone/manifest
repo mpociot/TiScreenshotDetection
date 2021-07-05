@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: Listen for native screenshots
+author: Marcel Pociot
+license: MIT
+copyright: Copyright (c) 2013-2014 by Marcel Pociot
+
+# these should not be edited
+name: TiScreenshotDetection
+moduleid: de.marcelpociot.screenshot
+guid: 544290ca-7002-4cf4-8b20-feedb53f1000
+platform: iphone
+minsdk: 9.2.0
